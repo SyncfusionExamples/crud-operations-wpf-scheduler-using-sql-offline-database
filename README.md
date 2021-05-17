@@ -1,2 +1,1 @@
-# crud-operations-wpf-scheduler-using-sql-offline-database
-How to perform the CRUD operations in WPF Scheduler (Calendar) using offline SQL database
+**[View document in Syncfusion WPF Knowledge base](https://www.syncfusion.com/kb/12599/how-to-perform-the-crud-operations-in-wpf-scheduler-calendar-using-offline-sql-database)**
